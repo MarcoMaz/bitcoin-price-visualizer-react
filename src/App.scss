@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=BenchNine&display=swap');
+
+$darkMetal: #2D3047;
+$lightMetal: #93B7BE;
+$yellow: #E0CA3C;
+$grape: #A799B7;
+$green: #048A81;
+
+body, html {
+    height: 100%;
+    }
+
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+body {
+    align-items: center;
+    background-color: $darkMetal;
+    color: $lightMetal;
+    display: flex;
+    font-family: 'BenchNine', sans-serif;
+    font-size: 14px;
+    justify-content: center;
+    }
+
+#container {
+    table {
+        font-size: 1.2em;
+        margin-bottom: 15%;
+        width: 100%;
+        caption {
+            color: $green;
+            font-size: 1.8em;
+            font-weight: bold;
+            margin-bottom: 15%;
+            }
+        thead {
+            color: $grape;
+            font-weight: bold;
+            font-size: 1.3em;
+        }
+        tbody tr td {
+            text-align: center;
+            span {
+                color: $grape;
+                }
+            }
+        }
+    label {
+        color: $green;
+        font-size: 1.5em;
+        text-align: center;
+        text-transform: uppercase;
+        width: 100%;
+        select {
+            appearance:none;
+            background-color: transparent;
+            border: 1px solid $lightMetal;
+            color: $yellow;
+            display: block;
+            font-size: 1.2em;
+            margin: 10% auto;
+            outline: none;
+            padding: 5%;
+            &:hover {
+                background-color: $yellow;
+                border: 1px solid $grape;
+                color: $darkMetal;
+                transition: background-color .2s ease-in;
+                }
+            }
+        }
+    }
