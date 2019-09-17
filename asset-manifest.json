@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bitcoin-price-visualizer-react/static/css/main.cbcddbdd.chunk.css",
+    "main.js": "/bitcoin-price-visualizer-react/static/js/main.a6a9ddad.chunk.js",
+    "main.js.map": "/bitcoin-price-visualizer-react/static/js/main.a6a9ddad.chunk.js.map",
+    "runtime~main.js": "/bitcoin-price-visualizer-react/static/js/runtime~main.2d62e3ff.js",
+    "runtime~main.js.map": "/bitcoin-price-visualizer-react/static/js/runtime~main.2d62e3ff.js.map",
+    "static/js/2.45060bf4.chunk.js": "/bitcoin-price-visualizer-react/static/js/2.45060bf4.chunk.js",
+    "static/js/2.45060bf4.chunk.js.map": "/bitcoin-price-visualizer-react/static/js/2.45060bf4.chunk.js.map",
+    "index.html": "/bitcoin-price-visualizer-react/index.html",
+    "precache-manifest.ea857ae6a0b92211ff8f297df177bbaf.js": "/bitcoin-price-visualizer-react/precache-manifest.ea857ae6a0b92211ff8f297df177bbaf.js",
+    "service-worker.js": "/bitcoin-price-visualizer-react/service-worker.js",
+    "static/css/main.cbcddbdd.chunk.css.map": "/bitcoin-price-visualizer-react/static/css/main.cbcddbdd.chunk.css.map"
+  }
+}
